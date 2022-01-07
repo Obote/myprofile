@@ -1,4 +1,9 @@
 * {
-    background-color: antiquewhite;
-    color: blue;
+    background-color: #172B4D;
+    color: #FFFFFF;
+}
+
+.navbar {
+    display: flex;
+    font-size: ;
 }
